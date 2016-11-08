@@ -1,5 +1,5 @@
 # Glyphs Sidebar Entries for prototyping Chinese Fonts
-Custom Sidebar Entries for prototyping Chinese font for Glyphs
+Custom Sidebar Entries for prototyping Chinese font in Glyphs
 
 https://glyphsapp.com/tutorials/custom-sidebar-entries-in-font-view
 
